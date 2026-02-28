@@ -114,4 +114,4 @@ classic-crypto-web/
 
 ## Catatan
 
-Project ini dibuat untuk keperluan pembelajaran dan tugas mata kuliah Kriptografi Klasik. Algoritma yang diimplementasikan adalah algoritma klasik yang bersifat pendidikan; tidak disarankan untuk enkripsi data sensitif di lingkungan produksi.
+Project ini dibuat untuk keperluan pembelajaran dan tugas mata kuliah Kriptografi. Algoritma yang diimplementasikan adalah algoritma klasik yang bersifat pendidikan; tidak disarankan untuk enkripsi data sensitif di lingkungan produksi.
