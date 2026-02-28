@@ -176,7 +176,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 
 <footer>
-    © 2026 - Proyek Kriptografi Klasik
+    © 2026 - Tugas Mata Kuliah Kriptografi | Alif Arlendi Putra Priyanto
 </footer>
 
 <script>
