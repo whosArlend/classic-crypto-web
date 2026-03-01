@@ -114,7 +114,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <div class="student-info">
             <span class="student-name">Alif Arlendi Putra Priyanto</span>
-            <span class="student-nim">NIM: 21120123140042</span>
         </div>
     </header>
 
